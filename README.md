@@ -2,18 +2,7 @@
 
 ---
 
-## Who am I?我是谁？
 
-### Alibaba Data EDP
-### 阿里巴巴数据平台EDP，花名@苏千
-### Chinese nodejs community: [cnodejs.org](http://cnodejs.org)
-
-<hr/>
-
-### Github: @[fengmk2](https://github.com/fengmk2/)
-### Blog: http://fengmk2.github.com
-### Twitter: @fengmk2
-### Weibo: @Python发烧友 , @FaWave
 
 ---
 
