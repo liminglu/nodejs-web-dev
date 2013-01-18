@@ -340,8 +340,6 @@ exports.finish = function (req, res, next) {
 
 ---
 
-[http://fengmk2.github.com/ppt/nodejs-web-dev.html](http://fengmk2.github.com/ppt/nodejs-web-dev.html)
-
 # web.emit(`'Thanks'`) <br/>&&<br/> console.log(`'end'`);
 
 
